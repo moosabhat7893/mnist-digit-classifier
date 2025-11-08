@@ -38,7 +38,8 @@ Model generalizes well to unseen handwritten digits, achieving over 98% test acc
 ## Visual Outputs
 
 **Sample Predictions**
-![Sample Predictions](images/sample_predictions.png)
+!Sample image(<img width="1055" height="591" alt="5" src="https://github.com/user-attachments/assets/28034068-7567-435a-8af8-aeef5a62f5b7" />)
+!prediction (<img width="392" height="50" alt="Screenshot 2025-11-08 233808" src="https://github.com/user-attachments/assets/ccc9e7f9-71f2-4a0b-ba26-ed62fb8a67c3" />)
 
 ## Future Enhancements
 
